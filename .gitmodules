@@ -1,0 +1,9 @@
+[submodule "mod/attendance"]
+	path = mod/attendance
+	url = ./mod/attendance/
+[submodule "question/type/geogebra"]
+	path = question/type/geogebra
+	url = ./question/type/geogebra/
+[submodule "theme/academi"]
+	path = theme/academi
+	url = ./theme/academi/
